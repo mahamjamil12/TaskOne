@@ -7,5 +7,9 @@ console.log("second commit")
 console.log("third commit")
 console.log("bad code")
 
+<<<<<<< Updated upstream
 
 console.log("practice code")
+=======
+console.log("practicing stash command")
+>>>>>>> Stashed changes
